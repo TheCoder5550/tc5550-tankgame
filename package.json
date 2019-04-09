@@ -1,0 +1,8 @@
+{
+	"name": "tc5550-tankgame",
+	"version": "1.0.0",
+	"description": "Tankgame websocket server",
+	"main": "server.js",
+	"author": "Alfons Nilsson",
+	"license": "MIT"
+}
